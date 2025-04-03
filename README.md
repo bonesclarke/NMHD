@@ -34,3 +34,43 @@ Important points:
 - 9.1% - Percentage of those with poor-to-fair mental health who experienced discrimination and victimization
 - 54.4% - Percentage of population with poor-to-fair mental health who report feeling a stronger sense of belonging to community
 - Reported rate of drug-related offences: 162 (emphazises the drug problem)
+
+## Enhanced Hypothesis Ideas
+
+1. Social Connection & Mental Health
+
+- Analyze the relationship between community participation and specific mental health indicators (anxiety, depression, substance use)
+- Investigate whether the type of social connection matters (family vs. friends vs. community groups)
+- Examine how geographic proximity to community spaces correlates with participation rates and mental health outcomes
+
+2. Self-Regulation & Resilience
+
+- Identify demographic factors associated with higher resilience ("ability to bounce back")
+- Analyze the gap between substance use issues (13% alcohol, 10% cannabis) and support access (2%)
+- Explore which self-regulation techniques are most effective across different demographic groups
+
+3. Digital Life & Mental Health
+
+- Compare mental health outcomes based on screen time patterns (duration, content type, passive vs. active usage)
+- Analyze the impact of online hate exposure on mental health indicators
+- Investigate if certain digital activities might actually improve mental health (support groups, educational content)
+
+4. Access & Barriers to Mental Health Support
+
+- **Map geographic "deserts" where mental health resources are limited**
+- Analyze the relationship between family doctor access and mental health outcomes
+- Identify which demographic groups face the greatest barriers to support
+
+5. Regional Variations in Mental Health
+
+- Compare urban vs. rural mental health indicators and support access
+- Analyze northern communities specifically (as mentioned in your notes)
+- Identify regions where mental health challenges and resource gaps are most severe
+
+## Potential Data Analysis
+
+1. Geospatial
+2. Correlation
+3. Temporal
+4. Demographic segmentation
+5. Predictive modeling (only after analysis)

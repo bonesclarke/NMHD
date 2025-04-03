@@ -74,3 +74,4 @@ Important points:
 3. Temporal
 4. Demographic segmentation
 5. Predictive modeling (only after analysis)
+6. Sentiment (if applicable) and language
